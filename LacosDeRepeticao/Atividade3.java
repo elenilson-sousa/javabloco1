@@ -23,6 +23,7 @@ public class Atividade3 {
 
 		System.out.println("O total com menos de 21 anos é: " +j);
 		System.out.println("O total com mais de 50 anos é: " +a);
+	
 			
 	}
 
